@@ -1,0 +1,13 @@
+Mkdir Jaime_le_shell
+cd Jaime_le_shell
+touch test1
+mkdir test2
+mkdir test3
+mkdir test4
+touch test5
+mkdir test6
+mkdir le_shell_cest_trop_cool
+mv test1 le_shell_cest_trop_cool
+mv test5 le_shell_cest_trop_cool
+cp  -r test2 le_shell_cest_trop_cool
+cp  -r test6 le_shell_cest_trop_cool
